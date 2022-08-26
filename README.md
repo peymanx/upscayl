@@ -3,6 +3,7 @@
 # Upscayl 🆙
 
 #### Free and Open Source AI Image Upscaler
+Video   
 
 https://user-images.githubusercontent.com/25067102/186332548-0d53f02f-d159-4804-8b0e-887d96651fdb.mp4
 
